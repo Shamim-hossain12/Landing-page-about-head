@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    /* background-color: red; */
+    width: 100%;
+    height: 1500px;
+}
+
+.header {
+    width: 100%;
+    height: 700px;
+}
+
+.top-header {
+    width: 100%;
+    height: 130px;
+    /* background-color: rgb(233, 37, 37); */
+}
+
+.header-logo {
+    /* background-color: red; */
+    width: 15%;
+    height: 100px;
+    float: left;
+    margin: 20px;
+}
+
+.header-logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.menu-ber {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.menu-ber-item {
+    word-spacing: 30px;
+    text-transform: uppercase;
+}
+
+.menu-ber-item a {
+    text-decoration: none;
+    color: red;
+    padding: 10px;
+}
+
+.menu-ber-item :hover {
+    background-color: blue;
+    padding: 10px;
+    color: black;
+    border-radius: 20px;
+}
+
+.menu-ber-item2 {
+    float: right;
+    margin-right: 30px;
+    text-transform: uppercase;
+}
+
+.menu-ber-item2 a {
+    text-decoration: none;
+    background-color: orangered;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.bottom-header {
+    background-color: turquoise;
+    width: 100%;
+    height: 100%;
+}
+
+.bottom-header-image {
+    float: right;
+    width: 40%;
+    margin-right: 30px;
+}
+
+.bottom-header-image img {
+    height: 400px;
+    padding-top: 50px;
+}
+
+.bottom-header-text {
+    width: 35%;
+    padding-top: 100px;
+    margin-left: 30px;
+}
+
+.bottom-header-text span {
+    color: blue;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+.bottom-header-text p {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.bottom-header-text a {
+    padding-left: 30px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: orangered;
+    padding: 10px;
+}
+
+.main {
+    background-color: rgb(230, 169, 56);
+    width: 100%;
+    height: 600px;
+}
+
+.main-header {
+    height: 300px;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+}
+
+.main-header-text1 {
+    height: 150px;
+    width: 60%;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.main-header-text1 span {
+    color: red;
+    text-transform: uppercase;
+}
+
+.main-header-text1 h1 {
+    color: blueviolet;
+    text-transform: capitalize;
+    font-size: 50px;
+}
+
+.main-bottom-header {
+    width: 100%;
+    height: 300px;
+    background-color: rgba(21, 226, 72, 0.363);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main-bottom-header-text1 {
+    height: 100%;
+    width: 20%;
+    float: left;
+    padding: 30px;
+    margin-left: 100px;
+}
+
+.main-bottom-header-text1 span {
+    font-size: 50px;
+    color: red;
+}
+
+.main-bottom-header-text1 b {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+.main-bottom-header-text1 p {
+    padding-top: 20px;
+}
+
+.main-bottom-header-text2 {
+    height: 100%;
+    width: 20%;
+    float: left;
+    padding: 30px;
+    margin-left: 70px;
+}
+
+.main-bottom-header-text2 span {
+    font-size: 50px;
+    color: red;
+}
+
+.main-bottom-header-text2 b {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+.main-bottom-header-text2 p {
+    padding-top: 20px;
+}
+
+.main-bottom-header-text3 {
+    height: 100%;
+    width: 20%;
+    float: left;
+    padding: 30px;
+    margin-left: 70px;
+}
+
+.main-bottom-header-text3 span {
+    font-size: 50px;
+    color: red;
+}
+
+.main-bottom-header-text3 b {
+    color: blue;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+.main-bottom-header-text3 p {
+    padding-top: 20px;
+}
+
+.fotter {
+    background-color: #fff;
+    height: 400px;
+    width: 100%;
+}
